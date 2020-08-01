@@ -1,0 +1,5 @@
+; Write here the API key. You can get it from https://opendata.aemet.es/centrodedescargas/altaUsuario?
+apikey = ""
+
+; Add the ID of the station you're interested in.
+stationID = ""
